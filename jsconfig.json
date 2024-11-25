@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src/*",
+        "target": "es2020",
+        "allowJs": true,
+        "checkJs": false,
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "esModuleInterop": false,
+        "paths": {
+            "*": ["./src/*"]
+        }
+    }
+}
